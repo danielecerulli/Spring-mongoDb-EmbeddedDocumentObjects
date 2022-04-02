@@ -1,0 +1,45 @@
+[{
+  "_id": 2878,
+  "name": "George",
+  "gender": "male",
+  "products": [
+    {
+      "name": "smartphone",
+      "quantity": 1,
+      "price": 280
+    },
+    {
+      "name": "Smart TV",
+      "quantity": 1,
+      "price": 560
+    }
+  ],
+  "address": {
+    "city": "New York",
+    "state": "New York",
+    "postCode": "1000"
+  },
+  "_class": "it.danielecerulli.mongodb.embedded.model.User"
+},{
+  "_id": 9876,
+  "name": "Carlos",
+  "gender": "male",
+  "products": [
+    {
+      "name": "Fridhe",
+      "quantity": 1,
+      "price": 450
+    },
+    {
+      "name": "Microwave",
+      "quantity": 1,
+      "price": 100
+    }
+  ],
+  "address": {
+    "city": "Barcelona",
+    "state": "Cataluna",
+    "postCode": "8989"
+  },
+  "_class": "it.danielecerulli.mongodb.embedded.model.User"
+}]
